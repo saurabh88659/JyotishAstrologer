@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "950098598261",
+    "project_id": "kestrotalk",
+    "storage_bucket": "kestrotalk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950098598261:android:45ca7eb4b7d9938f1b5b3c",
+        "android_client_info": {
+          "package_name": "com.jyotish_astrologer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz5iXdGdfsQaI8iUT6P9zO3APdDlpPhbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950098598261:android:643ad6ae46a549f81b5b3c",
+        "android_client_info": {
+          "package_name": "com.kestrotalk.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz5iXdGdfsQaI8iUT6P9zO3APdDlpPhbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
